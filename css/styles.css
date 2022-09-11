@@ -98,9 +98,9 @@ a:hover{
 }
 
 .bottom-cloud{
-  position: absolute;
-  left: 200px;
-  bottom: 2500px;
+  position: relative;
+  left: 60px;
+  bottom: 300px;
 }
 
 /*--------------------- IMGS EDITING-----------------*/
